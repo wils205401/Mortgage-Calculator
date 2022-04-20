@@ -1,0 +1,31 @@
+Project: Mortgage Calculator
+The project is useful for friends, family, and myself (for everyone really, as people need to learn about mortgages one way or another as they grow up) to quickly find the amount that needs to be paid in a mortgage loan. 
+
+What does my program do?
+
+How will it work in a terminal?
+
+
+----Research----
+A mortgage is a loan used by individuals to raise funds for buying real estate (e.g. a house), or by existing property owners to raise funds for any purpose while putting a lien (right to the property/collateral that secures indebtness) on the property being mortgaged. The lender of the loan is typically a bank, credit union or building society. 
+
+Mortgages have an interest rate and are scheduled to amortize over a set period of time, typically 30 years. Amortization is paying off an amount owed over time by making planned, incremental payments of principal and interest. For mortgages, as each payment is made, part of the payment is applied as interest on the loan, and the remaining is applied towards reducing the principal. 
+
+In the early years of the morgage, the unpaid principal is still large, and thus the interest payments are large. What this means is that monthly payments going toward reducing the principal is very small and equity in the property accumulates very slowly. (borrower's equity in the property equals the current market value of the property minus the amount owed according to the formula)
+
+Features of mortgages: 
+size of the loan
+maturity of the loan
+interest rate - fixed or variable
+method of paying off the loan
+Prepayment - settlement of a debt in advance of its official due date. This can be done by refinancing the debt through another lender (e.g. if they offer lower interest rates). Mortgages may include a penalty for prepayment as it means the mortgagee effectively earns less interest. 
+
+Mortgage loan = loan principal + expenses + interest
+
+Are you looking to buy a house for the first time? (Y/N)-> 
+Do you want to know how much mortgage you can borrow? (Y/N)->
+if no, jump back to first question
+Enter your annual income before taxes: 
+
+Do you want to know how much monthly payments you need to make on your mortgage?
+
