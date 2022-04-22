@@ -4,7 +4,6 @@
 
 # import packages
 import pandas as pd
-import numpy as np
 import datetime
 
 def mortgage_payments(loan_amt, maturity, payments_per_year, interest, option=1, start_date=None):
@@ -76,8 +75,7 @@ def main():
     Options = int(input('''Please input the operation you wish to perform.
 (1) Calculate your payment per period
 (2) Get a detailed summary of your payment schedule
-(3) Get a detailed summary of your payment schedule and save it as an Excel file
-Enter (1/2/3): '''))
+Enter (1/2): '''))
 
     if Options == 1:
         PaymentPerPeriod = mortgage_payments(LoanAmount, Maturity, PaymentsPerYear, InterestRate, Options)
